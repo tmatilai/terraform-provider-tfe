@@ -1,6 +1,6 @@
 module github.com/hashicorp/terraform-provider-tfe
 
-go 1.22.0
+go 1.23.0
 
 require (
 	github.com/agext/levenshtein v1.2.3 // indirect
@@ -27,7 +27,7 @@ require (
 	github.com/zclconf/go-cty v1.16.2
 	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/net v0.34.0 // indirect
-	golang.org/x/oauth2 v0.25.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
